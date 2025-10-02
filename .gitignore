@@ -1,0 +1,29 @@
+# API Keys & Secrets
+TELEGRAM_API.txt
+Opener.txt
+telelink/.env
+telelink/*.session
+
+# Database
+telelink/*.db
+
+# Outputs
+*.csv
+*.json
+telelink/telelink_links_*.csv
+
+# Python Core
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environment
+.env/
+.venv/
+venv/
+ENV/
+
+# OS Files
+.DS_Store
+Thumbs.db
