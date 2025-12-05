@@ -1,0 +1,6 @@
+.env
+*.session
+telelink.db
+__pycache__/
+*.pyc
+.venv/
